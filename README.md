@@ -1,0 +1,2 @@
+# Pakas
+Python interactive game
